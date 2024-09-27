@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "MagicNekoROM",
+			"oem": "OnePlus",
+			"device": "OnePlus 10T 5G",
+			"filename": "crDroidAndroid-14.0-20240927-ovaltine-v10.8.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/ovaltine/10.x/crDroidAndroid-14.0-20240927-ovaltine-v10.8.zip/download",
+			"timestamp": 1727450388,
+			"md5": "18468f7424d776699ce0d8539457468d",
+			"sha256": "9596ba9f714b7d585433fe1ae2a251fa5d7771349fdc4f4e795debca6a39c174",
+			"size": 1632928646,
+			"version": "10.8",
+			"buildtype": "",
+			"forum": "https://t.me/MagicNekoROM",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/13-Aug-2024/NikGapps-crdroid-official-arm64-14-20240813-signed.zip/download",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/MagicNekoROM",
+			"dt": "https://github.com/lineage-ovaltine-dev/android_device_oneplus_ovaltine",
+			"common-dt": "https://github.com/lineage-ovaltine-dev/android_device_oneplus_sm8450-common",
+			"kernel": "https://github.com/lineage-ovaltine-dev/android_kernel_oneplus_sm8450"
+		}
+	]
+}
